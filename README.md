@@ -1,3 +1,3 @@
 # SQLZOO
 #### [sqlzoo practice questions](https://sqlzoo.net/)
-As of November 2020
+As of December 2020
