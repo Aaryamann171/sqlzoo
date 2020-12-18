@@ -1,7 +1,7 @@
 # SQLZOO
 ## [sqlzoo practice questions](https://sqlzoo.net/)
 ### Excercise list as of December 2020
-#### 0 SELECT basics
+#### [0 SELECT basics](0_select_basics.sql)
 Some simple queries to get you started
 #### 1 SELECT name
 Some pattern matching queries
